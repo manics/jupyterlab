@@ -7,7 +7,8 @@ c.ServerProxy.servers = {
             '--dev-mode',
             '--port={port}',
             '--NotebookApp.token=""',
-        ]
+        ],
+        'rewrite': '',
     }
 }
 
