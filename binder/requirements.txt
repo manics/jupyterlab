@@ -1,1 +1,1 @@
-jupyter-server-proxy==1.0beta7
+https://github.com/manics/jupyter-server-proxy/archive/proxy-base-urls.zip
